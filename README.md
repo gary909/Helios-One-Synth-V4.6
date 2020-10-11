@@ -1,5 +1,5 @@
 "# Helios-One-Synth-V4.6" 
-
+-LATEST VERSION-
 A very easy to build arduino based MIDI controlled synth.
 
 For full build instructions, see;
