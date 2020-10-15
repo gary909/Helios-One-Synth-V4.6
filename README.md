@@ -2,6 +2,8 @@
 
 -LATEST VERSION- A very easy to build arduino based MIDI controlled synth.
 
+You'll need the arduino MIDI library and Mozzi library.
+
 For full build instructions, see;
 https://bloghoskins.blogspot.com/2020/09/helios-one-arduino-synth-part-4-final.html
 
