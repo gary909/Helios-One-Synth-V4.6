@@ -5,9 +5,14 @@
 You'll need the arduino MIDI library and Mozzi library.
 
 For full build instructions, see;
+
+https://bloghoskins.blogspot.com/2020/11/20-synth-project-complete-build-guide.html
+
+
+Code Explanation:
+
+Part 4 - Modulation
 https://bloghoskins.blogspot.com/2020/09/helios-one-arduino-synth-part-4-final.html
-
-
 
 Previous Parts
 Part 3 - Adding a Low Pass Filter
